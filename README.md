@@ -174,3 +174,8 @@ Future Improvements
 Conclusion
 
 This project demonstrates a complete beginner-level MQTT-based IoT telemetry pipeline using ESP32-CAM and sensors. It provides practical understanding of Embedded Systems, MQTT communication, and real-time IIoT monitoring.
+
+
+important files for the project 
+  1. Lakshya_MQTT_Project_Report.docx
+  2. source_code_mqtt.ino
